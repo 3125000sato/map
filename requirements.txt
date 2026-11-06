@@ -2,3 +2,4 @@ streamlit
 pandas
 streamlit-folium
 geopy
+streamlit-js-eval
